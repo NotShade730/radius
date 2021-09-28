@@ -1,19 +1,21 @@
 import {Client,Intents,Collection,ClientEvents,DiscordAPIError} from 'discord.js';
-import fs from 'fs'
+import { readdir } from 'fs'
 import 'dotenv/config';
+const myIntents = new Intents();
+myIntents.add(Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES);
 
-const client = new Client({intents: Intents.FLAGS.GUILD_MESSAGES});
+const client = new Client({intents: myIntents});
 
 export const commands = new Collection();
 export const aliases = new Collection();
 
-fs.readdir('./src/commands/', (err, files) => {
+readdir('./src/commands/', (err, files) => {
     if (err) console.error(err);
 
     files.forEach((f) => {
-            const props = require(`./src/commands/${f}`);
+            const props = require(`./commands/${f}`);
             props.fileName = f;
-            commands.set(props.help.name.ToUpperCase(), props);
+            commands.set(props.help.name.toUpperCase(), props);
             if (props.aliases) {
                 props.help.aliases.forEach((alias: string) => {
                     aliases.set(alias.toUpperCase(), props.help.name.toUpperCase());
@@ -26,7 +28,7 @@ fs.readdir('./src/commands/', (err, files) => {
 
 })
 
-fs.readdir('./src/events/', (error, files) => {
+readdir('./src/events/', (error, files) => {
     if (error) return console.error(error);
     files.forEach((file) => {
         const eventFunction = require(`./events/${file}`);
