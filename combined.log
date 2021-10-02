@@ -1,0 +1,168 @@
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[ERROR] - _a.bind is not a function
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[ERROR] - _a.bind is not a function
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - Cannot find module './source/commands/undefined'
+Require stack:
+- /home/notshade/Desktop/radius/source/events/messageCreate.ts
+- /home/notshade/Desktop/radius/source/index.ts
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[ERROR] - Cannot find module './source/commands/undefined'
+Require stack:
+- /home/notshade/Desktop/radius/source/events/messageCreate.ts
+- /home/notshade/Desktop/radius/source/index.ts
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - The user aborted a request.
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - Cannot find module './source/commands/undefined'
+Require stack:
+- /home/notshade/Desktop/radius/source/events/messageCreate.ts
+- /home/notshade/Desktop/radius/source/index.ts
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[ERROR] - Cannot find module '../commands/undefined'
+Require stack:
+- /home/notshade/Desktop/radius/source/events/messageCreate.ts
+- /home/notshade/Desktop/radius/source/index.ts
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 1 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[34mReady since[39m :  Sat, 02 Oct 2021 13:01:07 GMT
+[34mBot[39m         :  Radius
+[34mMembers[39m     :  4
+[34mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:01:44 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:02:57 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:21:17 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - Cannot read properties of undefined (reading 'blockQuote')
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:23:28 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:24:46 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - --------------------------------------------------------
+[94mReady since[39m :  Sat, 02 Oct 2021 13:25:15 GMT
+[94mBot[39m         :  Radius
+[94mMembers[39m     :  4
+[94mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[ERROR] - syntax error at or near "BIGINT"
+[INFO] - --------------------------------------------------------
+[106mReady since[49m :  Sat, 02 Oct 2021 14:59:43 GMT
+[106mBot[49m         :  Radius
+[106mMembers[49m     :  4
+[106mServers[49m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - syntax error at or near "guild_data"
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[ERROR] - syntax error at or near "BIGINT"
+[INFO] - LOADED 2 EVENTS
+[INFO] - LOADED 1 COMMANDS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - LOADED 1 COMMANDS
+[INFO] - LOADED 2 EVENTS
+[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE

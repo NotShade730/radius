@@ -1,0 +1,14 @@
+
+import { Client} from "discord.js";
+
+
+
+export const event = {
+    event:"ready",
+    once: false ,
+    disabled: false,
+    run: async (client:Client, ) => {
+
+
+
+       }
