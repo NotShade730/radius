@@ -1,168 +1,166 @@
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[ERROR] - _a.bind is not a function
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[ERROR] - _a.bind is not a function
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - Cannot find module './source/commands/undefined'
-Require stack:
-- /home/notshade/Desktop/radius/source/events/messageCreate.ts
-- /home/notshade/Desktop/radius/source/index.ts
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[ERROR] - Cannot find module './source/commands/undefined'
-Require stack:
-- /home/notshade/Desktop/radius/source/events/messageCreate.ts
-- /home/notshade/Desktop/radius/source/index.ts
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - The user aborted a request.
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - Cannot find module './source/commands/undefined'
-Require stack:
-- /home/notshade/Desktop/radius/source/events/messageCreate.ts
-- /home/notshade/Desktop/radius/source/index.ts
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[ERROR] - Cannot find module '../commands/undefined'
-Require stack:
-- /home/notshade/Desktop/radius/source/events/messageCreate.ts
-- /home/notshade/Desktop/radius/source/index.ts
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 1 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[34mReady since[39m :  Sat, 02 Oct 2021 13:01:07 GMT
-[34mBot[39m         :  Radius
-[34mMembers[39m     :  4
-[34mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:01:44 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:02:57 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:21:17 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[ERROR] - Cannot read properties of undefined (reading 'blockQuote')
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:23:28 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:24:46 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[INFO] - --------------------------------------------------------
-[94mReady since[39m :  Sat, 02 Oct 2021 13:25:15 GMT
-[94mBot[39m         :  Radius
-[94mMembers[39m     :  4
-[94mServers[39m     :  1
-[93mHAVE A GREAT DAY!![39m
---------------------------------------------------------
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
 [INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
-[ERROR] - syntax error at or near "BIGINT"
 [INFO] - --------------------------------------------------------
-[106mReady since[49m :  Sat, 02 Oct 2021 14:59:43 GMT
-[106mBot[49m         :  Radius
-[106mMembers[49m     :  4
-[106mServers[49m     :  1
+[96mReady since[39m :  Sat, 02 Oct 2021 16:33:16 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
 [93mHAVE A GREAT DAY!![39m
 --------------------------------------------------------
-[ERROR] - syntax error at or near "guild_data"
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[ERROR] - Cannot read properties of undefined (reading 'prefix')
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
 [INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
-[ERROR] - syntax error at or near "BIGINT"
-[INFO] - LOADED 2 EVENTS
-[INFO] - LOADED 1 COMMANDS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:35:40 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
 [INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
-[INFO] - LOADED 1 COMMANDS
-[INFO] - LOADED 2 EVENTS
-[ERROR] - request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:41:06 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
 [INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:43:36 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:45:05 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:45:15 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:46:44 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  4
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - value too long for type character varying(5)
+[INFO] - d!
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:52:34 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:53:41 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - f!
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 16:56:55 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[ERROR] - value too long for type character varying(5)
+[INFO] - f
+[ERROR] - value too long for type character varying(5)
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 17:00:54 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - f
+[INFO] - LOADED 2 COMMANDS
+[INFO] - LOADED 3 EVENTS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 17:03:17 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - f
+[INFO] - f
+[INFO] - -
+[INFO] - -
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 17:04:46 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - -
+[INFO] - -
+[ERROR] - value too long for type character varying(5)
+[INFO] - -
+[ERROR] - value too long for type character varying(5)
+[INFO] - -
+[INFO] - !
+[INFO] - LOADED 3 EVENTS
+[INFO] - LOADED 2 COMMANDS
+[INFO] - CONNECTION HAS BEEN ESTABLISHED WITH DATABASE
+[INFO] - --------------------------------------------------------
+[96mReady since[39m :  Sat, 02 Oct 2021 17:08:39 GMT
+[96mBot[39m         :  Radius
+[96mMembers[39m     :  5
+[96mServers[39m     :  1
+[93mHAVE A GREAT DAY!![39m
+--------------------------------------------------------
+[INFO] - !
+[INFO] - !

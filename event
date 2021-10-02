@@ -1,8 +1,4 @@
-
 import { Client} from "discord.js";
-
-
-
 export const event = {
     event:"ready",
     once: false ,
@@ -11,4 +7,4 @@ export const event = {
 
 
 
-       }
+     }

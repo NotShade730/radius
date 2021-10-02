@@ -15,8 +15,12 @@ const pool = new Pool({
 
 pool.query(`
   CREATE TABLE IF NOT EXISTS guild_data(
+     id BIGSERIAL PRIMARY KEY NOT NULL,
      guild_id BIGINT NOT NULL,
-     prefix char(5) NOT NULL 
+     prefix VARCHAR(5) NOT NULL 
   );
-`)
+`,(err,res)=> {
+  if(err)throw err;
+  res;
+})
 export const db = pool;
