@@ -11,4 +11,5 @@ export const structure = {
     permissions: [],
     example: "",
     dev: false
+    struct: clienttypes
 }

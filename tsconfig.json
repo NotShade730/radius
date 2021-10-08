@@ -15,7 +15,7 @@
 
       "noUnusedLocals": true,
       "noUnusedParameters": true,
-      "noImplicitReturns": true,
+      "noImplicitReturns": false,
       "noFallthroughCasesInSwitch": true,
 
       "moduleResolution": "node",
@@ -25,7 +25,8 @@
       "pretty": true,
 
       "skipLibCheck": true,
-      "forceConsistentCasingInFileNames": true
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true
   },
   "include": ["source"],
   "exclude": ["node_modules"]

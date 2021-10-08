@@ -3,7 +3,7 @@ import { Client, Collection, DiscordAPIError, Intents, ClientEvents} from "disco
 import fs from 'fs';
 import chalk from 'chalk'
 import winston from 'winston';
-
+import config from '.././config.json'
 //logger
 export const logger = winston.createLogger({
 	transports: [
@@ -15,7 +15,12 @@ export const logger = winston.createLogger({
 //Exports
 export const commands = new Collection();
 export const aliases = new Collection();
-
+export const info:string[] = [];
+export const mod:string[] = [];
+export const clienttypes = {
+    INFO:'Info',
+    MODERATION:'Moderation'
+}
 export const errorc = chalk.bold.red;
 export const warningc = chalk.keyword('orange');
 //export const startc = chalk.keyword("lightblue");
@@ -31,13 +36,16 @@ fs.readdir('./source/commands',(err, file)=> {
     file.forEach((cmd)=> {
         const command = require(`./commands/${cmd}`);
         command.filename = cmd;
+        
+
     commands.set(command.structure.name.toUpperCase(), command);
 
-    if(command.alias){
-        command.alias.forEach((al: string) => {
-            aliases.set(al , command);
+    if(command.structure.alias){
+        command.structure.alias.forEach((al:string) => {
+            aliases.set(al.toUpperCase() , command);
         });
     }
+    //console.log(aliases)
     })
     
     logger.log(`info`,`LOADED ${file.length} COMMANDS`)
@@ -62,4 +70,5 @@ client.on('debug', m => {logger.log('debug', m)});
 client.on('warn', m => {logger.log('warn', m)})
 client.on('error', m => {logger.log('error', m)})
 
-client.login("NzI0Mjg4MDcxNzQ2NDUzNTk1.Xu9_1A.sB_pSAYmAbWCPi9Ar-itDqIE58E");
+
+client.login(config.token);
